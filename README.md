@@ -3,22 +3,16 @@
 
 ## **Overview**
 It is the best tracking and tokenization system of the blockchain 
-
 ---
 ### **Transaction on EtherScan for # MASTER TRACKER Contract Deployment**
 ![Etherscan](image/contract_deployed_verif.PNG)
 ### **Crowdsale Contract Deployment on VSC**
 
 **Step 1. Deploy  Deployer Contract**
-
 ```
 ii) Click on **transact** button. 
-
-
 iii) Confirm on MetaMask pop-up window.
-
 ---
-
 # References
 * http://remix.ethereum.org/
 * https://faucet.ropsten.be/
