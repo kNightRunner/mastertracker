@@ -1,13 +1,32 @@
-# Sample Hardhat Project
+# MASTER TRACKER
+## Tracker assets project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## **Overview**
+It is the best tracking and tokenization system of the blockchain 
 
-Try running some of the following tasks:
+---
+### **Transaction on EtherScan for # MASTER TRACKER Contract Deployment**
+![Etherscan](image/contract_deployed_verif.PNG)
+### **Crowdsale Contract Deployment on VSC**
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+**Step 1. Deploy  Deployer Contract**
+
 ```
+ii) Click on **transact** button. 
+
+
+iii) Confirm on MetaMask pop-up window.
+
+---
+
+# References
+* http://remix.ethereum.org/
+* https://faucet.ropsten.be/
+* https://kovan.etherscan.io/
+* https://solidity.readthedocs.io/
+* https://medium.com/coinmonks/create-token-contract-and-time-limited-crowdsale-contract-with-whitelisting-in-solidity-1eb979d206f6
+* https://ethereum.stackexchange.com/questions/51757/basic-crowdsale-contract
+* https://ethereum.stackexchange.com/questions/51757/basic-crowdsale-contract
+* https://github.com/raineorshine/solidity-by-example
+* https://github.com/bkrem/awesome-solidity
+* https://solidity.readthedocs.io/en/v0.5.3/solidity-by-example.html#simple-open-auction
